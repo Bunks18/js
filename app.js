@@ -18,3 +18,12 @@ function textNormalizer(text) {
 console.log((wisePerson("Will", "Y0")));
 
 console.log((textNormalizer("YOOOO   ")));
+
+
+// function shouter(whatToShout) {
+//   var foo = whatToShout;
+//   newfoo = foo.toUpperCase();
+//   return newfoo + "!!!";
+// };
+
+// console.log((shouter("yooo")));
