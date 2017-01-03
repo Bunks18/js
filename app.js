@@ -6,11 +6,11 @@ function wisePerson(wiseType, whatToSay) {
     + whatToSay + '".';
 };
 
-function shouter(whatToShout) {
-  var foo = [whatToShout];
-  newfoo = foo.toUpperCase();
-  return newfoo + "!!!";// your code here
-};
+// function shouter(whatToShout) {
+//   var foo = [whatToShout];
+//   newfoo = foo.toUpperCase();
+//   return newfoo + "!!!";
+// };
 
 function textNormalizer(text) {
   // your code here
@@ -22,6 +22,6 @@ function textNormalizer(text) {
 
 console.log((wisePerson("Will", "Y0")));
 
-console.log((shouter("yooo")));
+// console.log((shouter("yooo")));
 
 console.log((textNormalizer("YOOOO   ")));
